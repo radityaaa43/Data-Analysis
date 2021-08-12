@@ -1,4 +1,4 @@
-# DataAnalyst
+# Covid 19 Reports
 
 This section is divided into 4 projects, namely:
 1. Covid-19 Report Using Taleau and Python: https://github.com/radityaaa43/Data-Analysis/tree/main/Covid-19
